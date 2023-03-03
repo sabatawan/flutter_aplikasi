@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "49043199302",
+    "project_id": "ada-kami-ef1eb",
+    "storage_bucket": "ada-kami-ef1eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49043199302:android:3768c1dd96cf16bb638147",
+        "android_client_info": {
+          "package_name": "com.adakami"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "49043199302-0pikdtuu5t2e4lonems04r9l7a26nnaq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-SzxLoXydQLxW6lkdQAzXTiIWEupspWk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "49043199302-0pikdtuu5t2e4lonems04r9l7a26nnaq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
